@@ -3,8 +3,8 @@
 ## ¿Por qué  saber administrar proyectos?
 A lo largo de la carrera se pueden encontrar con proyectos extensos que les encarguen sus profesores.
 Por lo que sus proyectos (de una sola materia pueden lucir así):
-<img src="https://i.imgur.com/L6Rq21Z">
-![direct](https://i.imgur.com/L6Rq21Z.gifv)
+<img src="https://imgur.com/L6Rq21Z">
+![](https://imgur.com/L6Rq21Z)
 ![Files](images/goodish.png)
 ![processing_mess](images/badishProc.gif)
 
