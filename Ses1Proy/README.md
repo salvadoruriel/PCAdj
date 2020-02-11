@@ -4,8 +4,8 @@
 A lo largo de la carrera se pueden encontrar con proyectos extensos que les encarguen sus profesores.
 Por lo que sus proyectos (de una sola materia pueden lucir así):
 ![theWhat](/images/justwhat.gif)
-![Files](/images/goodish.png)
-![processing_mess](/images/badishProc.gif)
+![Files](images/goodish.png)
+![processing_mess](images/badishProc.gif)
 
 Esto también  aplica para trabajos independientes en la vida profesional (y hobbies).
 Lo cual puede ser muy común  en proyectos que requieren disciplinas, lenguajes y conocimientos
