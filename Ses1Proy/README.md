@@ -3,18 +3,18 @@
 ## ¿Por qué  saber administrar proyectos?
 A lo largo de la carrera se pueden encontrar con proyectos extensos que les encarguen sus profesores.
 Por lo que sus proyectos (de una sola materia pueden lucir así):
-![theWhat](/images/justwhat.gif)
+![theWhat](images/justwhat.gif)
 ![Files](images/goodish.png)
 ![processing_mess](images/badishProc.gif)
 
 Esto también  aplica para trabajos independientes en la vida profesional (y hobbies).
 Lo cual puede ser muy común  en proyectos que requieren disciplinas, lenguajes y conocimientos
 distintos:
-![goodVSC](/images/gooder.png)
-![slightJava](/images/slightly.gif)
-![goodishPs](/images/goodishPs.PNG)
-![badPs](/images/badmyps.PNG)
-![goodUnity](/images/goodUn1.PNG)
+![goodVSC](images/gooder.png)
+![slightJava](images/slightly.gif)
+![goodishPs](images/goodishPs.PNG)
+![badPs](images/badmyps.PNG)
+![goodUnity](images/goodUn1.PNG)
 
 Los ejemplos anteriores son solo unos cuantos elaborados individualmente.
 *TL;DR: Organiza bien tus trabajos antes de que crezcan en horribles amalgamas*
