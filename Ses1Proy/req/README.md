@@ -1,4 +1,5 @@
-#Desafios de la primer semana
+# Desafios de la primer semana
+Solo la version yeyecoa cuenta para puntos extras, pero es opcional a diferencia del resto.
 ---
 ## 1.1 Proyecto.
 1. Visita el siguiente enlace: https://repl.it/@SalvadorU/Proy1C.
