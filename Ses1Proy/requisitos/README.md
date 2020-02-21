@@ -7,7 +7,9 @@ Solo la version yeyecoa cuenta para puntos extras, pero es opcional a diferencia
 3. Incluye los archivos (sin main) en una carpeta llamada "Desafio_1".
 4. Llama en el archivo principal (main) a la función definida en Desafío 1.
 5. Crea un menú similar al de main.c con el que probaras cada Desafío que vayas elaborando.
-6. Usa en la opción 1 un saludo personal (¡y tu imaginación!).
+6. Usa en la opción 1 un saludo personal (¡y tu imaginación!).  
+Ejemplo de carpeta:  
+![img](../../Ses1Proy/images/example.PNG)
 
 ## 1.2 Secuencias de control.
 Elabora una función  que reciba un entero positivo y genere una pirámide con niveles
