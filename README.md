@@ -6,6 +6,8 @@
 </p>
 
 ---
+# Avisos
+**24/02/2020** Crear en repl.it sus proyectos, comprueben que corren ahí. Adicionalmente se extiende entrega hasta 26/02/2020 a las 10:00pm, favor de checar sus computadoras por virus y rootkits (busquen analisis completos o de reinicio en las opciones de analisis de sus antivirus).
 # Hola!
 El git se separa en carpetas por sesiones/topicos principales.
 Visita la correspondiente a la presentacion!
