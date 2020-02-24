@@ -3,7 +3,7 @@ Solo la version yeyecoa cuenta para puntos extras, pero es opcional a diferencia
 ---
 ## 1.1 Proyecto.
 1. Visita el siguiente enlace: https://repl.it/@SalvadorU/Proy1C.
-2. Crea una carpeta similar a la mostrada en el enlace.
+2. Crea en **repl.it** (o un compilador en linea que les permita tener varios archivos en un proyecto) una carpeta similar a la mostrada en el enlace.
 3. Incluye los archivos (sin main) en una carpeta llamada "Desafio_1".
 4. Llama en el archivo principal (main) a la función definida en Desafío 1.
 5. Crea un menú similar al de main.c con el que probaras cada Desafío que vayas elaborando.
