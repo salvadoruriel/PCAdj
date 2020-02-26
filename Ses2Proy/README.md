@@ -5,19 +5,19 @@ La entrega de un producto es indispensable para darse a conocer, con ello tambie
 Sea cliente cualquier tercero a ustedes, es importante tomar en cuenta como se verá su trabajo. El cliente puede ser su supervisor,
 un público observador o alguien que se beneficie del producto, entre otros ejemplos que en común van a querer saber fácil y rápidamente
 que es lo que han desarrollado.  
-Después de pasar mucho tiempo en un trabajo, es posible que se acostumbren a la forma en que realicen las cosas
-por lo que pueden tomar en cuenta las siguientes consideraciones:
+Después de pasar mucho tiempo en un trabajo, es posible que se acostumbren a la misma forma en que hacen las cosas
+por lo que pueden tomar en cuenta las siguientes consideraciones para revisar mejor:
 1. Sesiones independientes
     * Si tienes elementos en línea, abre tu proyecto en un navegador privado para que observes que vera un público.
     * Bajo entornos con muchos elementos, carga tu proyecto en computadoras virtuales (o diferentes) a la tuya para ver si hay 
     elementos que falten incluir en el producto final.
-    * Casi siempre trabajaras en modo desarrollo (development), busca como generar tu proyecto en su versión publica (release) 
-    ya que es menos pesada y optimizada, pero a su vez puede contener errores visibles solo en el producto entregable.
+    * Casi siempre trabajaras en modo desarrollo (**development**), busca como generar tu proyecto en su versión publica 
+    (**release**) ya que es menos pesada y optimizada, pero a su vez puede contener errores visibles solo en el producto entregable.
 2. Puntos de vista ajenos
-    * Usa un público prueba, ya sea familiares, amigos o conocidos que te puedan dar sus opiniones.
-    * Busca gente similar a quienes destinas tu producto, así te sabrán dar una opinión más honesta sin que
+    * Usa un **público prueba**, ya sea familiares, amigos o conocidos que te puedan dar sus opiniones.
+    * Busca *gente similar a quienes destinas tu producto*, así te sabrán dar una opinión más honesta sin que
     consideren todo lo técnico.
-    * Inclúyete a comunidades, el entorno escolar es uno en el que gente con conocimientos similares a los tuyos
+    * Inclúyete a **comunidades**, el entorno escolar es uno en el que gente con conocimientos similares a los tuyos
     pueden darte retroalimentación o apoyo en el lado técnico.
     
 ## Código limpio
