@@ -38,5 +38,6 @@ Es por esto que darle el producto a gente con poco conocimiento técnico sirve p
 casi siempre no se le pueden ocurrir a uno. De esto nace la utilidad de los *testers*.
 
 ## Conocimientos hasta esta sesión
-Estos conceptos son de utilidad en la formación, ya que también facilitan el evitar, encontrar y reparar errores.
+Estos conceptos son de utilidad en la formación, ya que también facilitan el evitar, encontrar y reparar errores.  
+Debes de saber cómo usar structs al menos para almacenar y recuperar información.
 En la carpeta requerimientos encuentras los desafíos que agregaras a tu proyecto.
