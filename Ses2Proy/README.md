@@ -1,5 +1,5 @@
 # Sesión 2: Buenas prácticas
-La entrega de un producto es indispensable para darse a conocer, con ello tambien se debe considerar como se ve.
+La entrega de un **producto** es indispensable para darse a conocer, con ello tambien se debe considerar **como se ve**.
 
 ## Considerando el cliente
 Sea cliente cualquier tercero a ustedes, es importante tomar en cuenta como se verá su trabajo. El cliente puede ser su supervisor,
@@ -32,12 +32,12 @@ la [Notación húngara](https://es.wikipedia.org/wiki/Notaci%C3%B3n_h%C3%BAngara
 debes mezclarlos** ni el tipo ni la cantidad, se puede causar confusión con mezclas.
 
 ## Presentación
-**Siempre** debes considerar que el cliente tendrá (o causara) errores, por lo que la ejecución de tu producto debe ser
-lo más lineal y sencilla posible, manteniendo la funcionalidad esperada.
+**Siempre** debes considerar que el cliente tendrá (o causara) **errores**, por lo que la ejecución de **tu producto debe ser
+lo más lineal** y sencilla posible, manteniendo la funcionalidad esperada.
 Es por esto que darle el producto a gente con poco conocimiento técnico sirve para encontrar los errores comunes que 
 casi siempre no se le pueden ocurrir a uno. De esto nace la utilidad de los *testers*.
 
 ## Conocimientos hasta esta sesión
-Estos conceptos son de utilidad en la formación, ya que también facilitan el evitar, encontrar y reparar errores.  
-Debes de saber cómo usar structs al menos para almacenar y recuperar información.
-En la carpeta requerimientos encuentras los desafíos que agregaras a tu proyecto.
+Estos conceptos son de utilidad en la **formación**, ya que también facilitan el evitar, encontrar y reparar errores.  
+Debes de saber cómo usar **structs** al menos para almacenar y recuperar información.
+En la carpeta requerimientos encuentras los desafíos que **agregaras** a tu *proyecto*.
