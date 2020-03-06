@@ -22,6 +22,6 @@ cuales al ser llamados desde el menú imprimirán el maximo valor que pueden rep
 librerías que definen estos valores o los calculan, puedes investigarlas o crear la tuya.*
 Aprovecha la forma de un struct para imprimir estos valores sobre cada elemento que contiene.
 *Si el lenguaje no soporta structs, simula su forma con algo similar, como una clase (en forma sencilla).*
-## 2.3 Valores mínimos  
+## 2.3 Valores mínimos (yeyecoa)
 Aprovecha el struct ya creado para con otra función dar los valores más bajos que pueden almacenar, estos serán **negativos**
 en varios casos.
