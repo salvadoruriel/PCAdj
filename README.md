@@ -7,10 +7,9 @@
 
 ---
 # Avisos
-**05/03/2020** El ejercicio 2.3 es yeyecoa.  
-**05/03/2020** Los sitios de repl.it con las respuestas cambiaron a **sin** el *1* para mayor claridad: https://repl.it/@SalvadorU/ProyC
-https://repl.it/@SalvadorU/ProyPy  
-Recuerden que sus **proyectos deben estar en un repl.it** o algo similar (que les permita tener varios archivos).  
+**17/03/2020**Ya esta la sesion 3, les puede servir hacerla como practica para el examen.
+De aqui en adelante no se revisaran sus códigos si no estan en repl.it o un compilador en linea.
+Esto es para que vean sus errores en ambientes más generales.
 
 # Hola!
 El git se separa en carpetas por sesiones/temas principales.
